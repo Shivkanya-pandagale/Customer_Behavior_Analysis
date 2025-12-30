@@ -159,6 +159,6 @@ Customer-Shopping-Behavior-Analysis/
 This project demonstrates a complete data analytics workflow, from raw data cleaning to SQL analysis and business-ready visualization.
 It showcases strong skills in Python, SQL, Power BI, and analytical thinking, making it suitable for Data Analyst / Business Analyst roles.
 
-I
+
 
 ![image alt](https://github.com/Shivkanya-pandagale/Customer_Behavior_Analysis/blob/a81bf22e4b9cb859c751698b6167aec62dfa6ef9/Screenshot_Dashboard.png)
